@@ -4,23 +4,23 @@ Local para postar a atividade da unidade 1.
 
 ## Avaliação
 
+Nota: 10,0  
+
 ### Trabalho Correlato 1
 
-Acadêmico:  
-Comentários:  
-
--  
+Snapchat  
+.. filtros  
+Identificar o rosto ... app nativo do iOS  
+É de entretenimento, mas vende, e usa "tecnologia" que buscamos  
 
 ### Trabalho Correlato 2
 
-Acadêmico:  
-Comentários:  
-
--  
+Medidas (iPhone)  
+Com certeza que usa ArKit (Apple), pelo menos deveria  
+Medida +/-  
+Aplicativo que pega a planta de uma casa: Magic Plant  
 
 ### Trabalho Correlato 3
 
-Acadêmico:  
-Comentários:  
-
--  
+Stack AR  
+1a jogo que usou o ArKit  
