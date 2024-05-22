@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Superman" motionHint="adaptive" trackingMode="scan" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="Supermans_assembly" assemblyId="3b9e513f29784fc698cd445a86432524">
+<Part name="Superman" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-2.1283e-06 0.0137654 0.0564339" rotation="AD: -0.984742 -0.182385 3.19684 178.078" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

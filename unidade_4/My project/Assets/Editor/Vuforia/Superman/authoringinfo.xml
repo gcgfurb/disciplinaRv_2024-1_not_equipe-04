@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.22.5">
+<ModelTarget name="Superman" targetId="9d2a6715376a43728e63287bc41c8cb2" version="14.0" toolVersion="10.22.5" bbox="-0.009467 -0.000014 -0.009274 0.009471 0.027724 0.009272" previewImage="9d2a6715376a43728e63287bc41c8cb2_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="Supermans_assembly" assemblyId="3b9e513f29784fc698cd445a86432524">
+<Part name="Superman" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-2.1283e-06 0.0137654 0.0564339" rotation="AD: -0.984742 -0.182385 3.19684 178.078" image="Superman_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
